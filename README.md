@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Rutuja!
-  A Third Year Engineering student
-  Branch: Electronics and Telecommunication
+- A Third Year Engineering student
+- Branch: Electronics and Telecommunication
   
   
 
