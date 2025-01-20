@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Rutuja Bhosale!
-- A Final Year Engineering student
+- BE
 - Branch: Electronics and Telecommunication
-- Skills: HTML, CSS, JS, PHP, PhpMyAdmin
+- Skills: C, CPP, HTML, CSS, JS, PHP, PhpMyAdmin
   
   
 
